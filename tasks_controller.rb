@@ -41,9 +41,4 @@ class TasksController
     # 2 - Envoyer les tasks à la vue pour les afficher
     @tasks_view.display(tasks)
   end
-
-
-
-
-
 end
